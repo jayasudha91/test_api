@@ -1,0 +1,17 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "ces",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "av",
+    "type": "STRING"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "sc",
+    "type": "STRING"
+  }
+]
